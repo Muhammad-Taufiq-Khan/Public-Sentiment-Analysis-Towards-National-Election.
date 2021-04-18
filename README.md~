@@ -1,11 +1,8 @@
 # TwitterSentimentAnalysis-modi
-*****DataSet: 
-			Twitter_Data.csv
-		Download Link: https://www.kaggle.com/cosmos98/twitter-and-reddit-sentimental-analysis-dataset?select=Twitter_Data.csv
+*****DataSet: Twitter_Data.csv
+Download Link: https://www.kaggle.com/cosmos98/twitter-and-reddit-sentimental-analysis-dataset?select=Twitter_Data.csv
 			
-*****Model: 
-		1. TwitterRedditSentimentAnalysis.ipynl 
-		2.TwitterSentimentAnalysis.ipynb
+*****Model:TwitterSentimentAnalysis.ipynb
 
-### 2.TwitterSentimentAnalysis.ipynb is Updated model with 74% Accuracy on Twitter_Data.csv Dataset.###
+### TwitterSentimentAnalysis.ipynb is Updated model with 74% Accuracy on Twitter_Data.csv Dataset.###
 
